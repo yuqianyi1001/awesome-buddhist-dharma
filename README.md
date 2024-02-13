@@ -2,6 +2,11 @@
 ## 在线佛经
 * Cbeta https://cbetaonline.dila.edu.tw/cbeta 大陆版 https://cbetaonline.cn/ 
 * 漢文大藏經 https://deerpark.app/
+* 巴利三藏（shineling）
+  * 经藏 https://www.shineling.org/sutta-pitaka/
+  * 律藏 https://www.shineling.org/vinaya-pitaka/
+  * 論藏 Abhidhamma Piṭaka https://www.shineling.org/abhidhamma-pitaka/
+  * 注疏 Añña Pāli Gantha https://www.shineling.org/anna-pali-gantha/
 
 ## 净土宗
 * 净土宗经典专集 http://www.baus-ebs.org/sutra/jan-read/004/index.html
