@@ -8,6 +8,9 @@
   * 論藏 Abhidhamma Piṭaka https://www.shineling.org/abhidhamma-pitaka/
   * 注疏 Añña Pāli Gantha https://www.shineling.org/anna-pali-gantha/
 
+## 在线佛学辞典
+* 一行佛學辭典搜尋 http://buddhaspace.org/dict/
+
 ## 净土宗
 * 净土宗经典专集 http://www.baus-ebs.org/sutra/jan-read/004/index.html
 * 印光法师答念佛600问 https://www.dzj.fosss.net/relative/sdhb/ygfs600 
