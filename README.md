@@ -12,6 +12,9 @@
 * 净土宗经典专集 http://www.baus-ebs.org/sutra/jan-read/004/index.html
 * 印光法师答念佛600问 https://www.dzj.fosss.net/relative/sdhb/ygfs600 
 
+## 唯识宗
+* 唯識典籍數位資料庫 https://vmtd.dila.edu.tw/ 
+* 《成唯識論》及其注疏編撰 https://vms.dila.edu.tw/ 
 
 ## 欢迎贡献，提交PR或Issue
 
