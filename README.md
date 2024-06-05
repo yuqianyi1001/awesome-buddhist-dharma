@@ -24,6 +24,10 @@
 ## 俱舍宗/学 
 * 七十五法 百门分别——《俱舍论法宗原》可视化展示 https://www.duobaojiangsi.com/openBaimen 
 
+## 佛學概要
+* 佛學概要十四講表講錄，徐醒民講，http://www.minlun.org.tw/14pt/00.htm
+
+
 ## 本人的学佛笔记和心得分享
 * 愚千一 https://yuqianyi1001.github.io/
 
