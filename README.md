@@ -29,7 +29,7 @@
 
 
 ## 本人的学佛笔记和心得分享
-* 愚千一 https://yuqianyi1001.github.io/
+* 愚千一 https://yuqianyi.com (旧网址： https://yuqianyi1001.github.io/ ，依旧可用）
 
 
 ## 欢迎贡献，提交PR或Issue
