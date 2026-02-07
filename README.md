@@ -18,11 +18,13 @@
 ## 唯识宗/学
 * 唯識典籍數位資料庫 https://vmtd.dila.edu.tw/ 
 * 《成唯識論》及其注疏編撰 https://vms.dila.edu.tw/
-* 五位百法 可交互 大图 https://yuqianyi1001.github.io/100
+* 五位百法 可交互 大图 https://yuqianyi1001.github.io/100 （基于网图，鄙人增加功能）
+* 五位百法 可交互 大图 https://yuqianyi1001.github.io/baifa （鄙人所做）
 * 八識規矩頌參考圖表（常慶法師製作） https://cqings.blogspot.com/2021/05/blog-post_20.html
 
 ## 俱舍宗/学 
-* 七十五法 百门分别——《俱舍论法宗原》可视化展示 https://www.duobaojiangsi.com/openBaimen 
+* 俱舍 七十五法 百门分别——《俱舍论法宗原》可视化展示 https://www.duobaojiangsi.com/openBaimen 
+* 俱舍 七十五法 百门分别 https://yuqianyi1001.github.io/jushe （copy了一份存放在鄙人网站上，备用）
 
 ## 佛學概要
 * 佛學概要十四講表講錄，徐醒民講，http://www.minlun.org.tw/14pt/00.htm
