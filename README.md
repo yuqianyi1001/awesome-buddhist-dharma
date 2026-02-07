@@ -1,3 +1,8 @@
+# 欢迎贡献，提交PR或Issue
+
+欢迎提交电子书、网址、相同的内容更好的排版都可以。
+也可以Email我：jeffwoo2019@gmail.com。
+南无阿弥陀佛。
 
 ## 在线佛经
 * Cbeta https://cbetaonline.dila.edu.tw/cbeta 大陆版 https://cbetaonline.cn/ 
@@ -30,10 +35,7 @@
 * 佛學概要十四講表講錄，徐醒民講，http://www.minlun.org.tw/14pt/00.htm
 
 
-## 本人的学佛笔记和心得分享
-* 愚千一 https://yuqianyi.com (旧网址： https://yuqianyi1001.github.io/ ，依旧可用）
+## 鄙人的学佛笔记和心得分享
+* 愚千一 https://yuqianyi.com (旧网址： https://yuqianyi1001.github.io/ ，依旧可用，备用）
 
 
-## 欢迎贡献，提交PR或Issue
-
-或提交电子书、网址、相同的内容更好的排版都可以。南无阿弥陀佛。
