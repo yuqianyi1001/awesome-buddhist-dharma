@@ -8,6 +8,7 @@
 
 ## 白话佛经，现代语译的佛经
 * 今文佛典：https://sutratoday.com （鄙人所创，欢迎阅读）
+* AI 大藏经： https://buddhism-ai.com  （AI说是原来的 deerpark.ai ）
 
 ## 在线佛经
 * Cbeta https://cbetaonline.dila.edu.tw/cbeta 大陆版 https://cbetaonline.cn/ 
