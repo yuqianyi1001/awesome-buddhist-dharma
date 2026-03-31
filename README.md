@@ -12,6 +12,7 @@
 
 ## 在线佛经
 * Cbeta https://cbetaonline.dila.edu.tw/cbeta 大陆版 https://cbetaonline.cn/ 
+* FoJin 佛津 —— 佛教数字文本聚合平台，涵盖巴利、梵、藏、汉传佛典 9,200+ 部，500+ 数据源，8 种 UI 语言，支持 AI 问答（RAG）、知识图谱、全文检索。开源，Apache-2.0 协议。https://fojin.app （GitHub: https://github.com/xr843/fojin ）
 * 巴利三藏（shineling）
   * 经藏 https://www.shineling.org/sutta-pitaka/
   * 律藏 https://www.shineling.org/vinaya-pitaka/
