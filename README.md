@@ -12,6 +12,7 @@
 
 ## 在线佛经
 * Cbeta https://cbetaonline.dila.edu.tw/cbeta 大陆版 https://cbetaonline.cn/ 
+* 如是我闻 —— 基于 CBETA 的多语言佛经阅读平台，提供原文与白话对照、英日译文、经文问答和稳定章节链接。https://rushiwowen.co/
 * FoJin 佛津 —— 佛教数字文本聚合平台，涵盖巴利、梵、藏、汉传佛典 9,200+ 部，500+ 数据源，8 种 UI 语言，支持 AI 问答（RAG）、知识图谱、全文检索。开源，Apache-2.0 协议。https://fojin.app （GitHub: https://github.com/xr843/fojin ）
 * foxue.ai 佛学 —— 全球佛学交流的可信 AI 平台：从问题，回到原典。段落级引证阅读覆盖汉传大藏经（CBETA）、巴利三藏全本、德格甘珠尔与梵文文本；问经功能只综合已核验证据，证据不足时如实回答"未找到"。开源，Apache-2.0 协议。https://foxue.ai （GitHub: https://github.com/weitzu-com/foxue.ai ）
 * 巴利三藏（shineling）
@@ -45,5 +46,4 @@
 
 ## 鄙人的学佛笔记和心得分享
 * 愚千一 https://yuqianyi.com (旧网址： https://yuqianyi1001.github.io/ ，依旧可用，备用）
-
 
