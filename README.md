@@ -39,6 +39,7 @@
 ## 俱舍宗/学 
 * 俱舍 七十五法 百门分别——《俱舍论法宗原》可视化展示 https://www.duobaojiangsi.com/openBaimen 
 * 俱舍 七十五法 百门分别 https://yuqianyi1001.github.io/jushe （copy了一份存放在鄙人网站上，备用）
+* Attention, Not Self —— 说一切有部、唯识、上座部三系法（dharma）分类对照表，并比较三系的认知过程模型与计算现象学（全局工作空间理论、预测处理等）。个人探究，日文与英文，CC0。https://github.com/shimo4228/attention-not-self
 
 ## 佛學概要
 * 佛學概要十四講表講錄，徐醒民講，http://www.minlun.org.tw/14pt/00.htm
