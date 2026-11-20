@@ -45,6 +45,9 @@
 * 佛學概要十四講表講錄，徐醒民講，http://www.minlun.org.tw/14pt/00.htm
 
 
+## 佛教故事 Stories
+* Being Mindful Stories: 免费英文佛教故事网站，收录阿姜布拉姆（Ajahn Brahm）、阿姜查（Ajahn Chah）、一行禅师（Thich Nhat Hanh）等师长的 1,200+ 则短篇故事，以白话复述，并附来源讲座的时间戳链接。https://beingmindfulstories.com/
+
 ## 鄙人的学佛笔记和心得分享
 * 愚千一 https://yuqianyi.com (旧网址： https://yuqianyi1001.github.io/ ，依旧可用，备用）
 
